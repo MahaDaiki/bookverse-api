@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,17 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+body{
+  background-color: rgb(138, 205, 244);
+}
+
+.background {
+  background-image: url("./books.webp");
+  background-size: cover;
+  background-position: center;
+  min-height: 400px;
+  color: white;
+  padding: 50px;
 }
